@@ -9,3 +9,5 @@ Start of the Project:
 - Then we created urls.py in our app so we can link it to views for something blah blah.
 
 - Ok now we added the basic functionality between the new urls.py in myapp and views.py
+
+- Then we connected the urls.py of myapp and the urls of demo.
