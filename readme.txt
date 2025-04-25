@@ -11,3 +11,5 @@ Start of the Project:
 - Ok now we added the basic functionality between the new urls.py in myapp and views.py
 
 - Then we connected the urls.py of myapp and the urls of demo.
+
+- Then we made a base and html template and saw how the home inherits the base.html template
